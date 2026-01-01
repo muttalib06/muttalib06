@@ -34,23 +34,32 @@ I'm a passionate **Frontend Developer** specializing in building modern, respons
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
----
 ### 📊 GitHub Statistics
 
+<br/>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muttalib06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muttalib06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/muttalib06">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muttalib06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/muttalib06">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muttalib06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muttalib06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/muttalib06">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muttalib06&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=muttalib06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <a href="https://github.com/muttalib06">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=muttalib06&custom_title=Contribution%20Activity&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
+  </a>
 </p>
 
----
+<br/>
 
 ### 🚀 Featured Projects
 
