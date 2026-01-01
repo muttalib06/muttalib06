@@ -7,13 +7,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Frontend Developer** specializing in building modern, responsive, and user-friendly web applications. With a strong foundation in the **MERN stack** and hands-on experience with **Firebase**, I love creating seamless digital experiences that solve real-world problems.
+I'm a passionate **Frontend Developer** specializing in building modern, responsive, and user-friendly web applications. With a strong foundation in the **React.js**I always fous on creating seamless digital experiences that solve real-world problems.
 
-- 🔭 Currently exploring **Next.js** for server-side rendering and full-stack development
-- 💼 Building scalable applications with **React.js**, **Node.js**, and **MongoDB**
+- 🔭 Currently exploring **Next.js** for creating high-quality applications
+- 💼 Building scalable applications with **React.js**
 - 🌱 Always learning and staying updated with the latest web technologies
 - 🎯 Focused on writing clean, maintainable, and efficient code
-- 💡 Open to collaborating on innovative projects and open-source contributions
+- 💡 Open to collaborating with team to create innovative projects.
 
 ---
 
@@ -21,6 +21,7 @@ I'm a passionate **Frontend Developer** specializing in building modern, respons
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
