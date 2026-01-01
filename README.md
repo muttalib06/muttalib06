@@ -57,8 +57,8 @@ I'm a passionate **Frontend Developer** specializing in building modern, respons
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+<imag src="Screenshot 2026-01-01 235518.png" width="100%">
+<imag src="Screenshot 2026-01-01 235549.png" width="100%">
 
 </div>
 
