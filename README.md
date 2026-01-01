@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[YOUR_BANNER_IMAGE_UR](https://i.ibb.co.com/cS0TxqfX/Frontend-Developer-React-Enthusiast-Building-Modern-Web-Experiences.png)L" alt="GitHub Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/cS0TxqfX/Frontend-Developer-React-Enthusiast-Building-Modern-Web-Experiences.png" alt="GitHub Banner" width="100%"/>
 </div>
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 <h3 align="center">Frontend Developer | React.js Specialist | Building Scalable Web Applications</h3>
