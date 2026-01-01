@@ -56,9 +56,8 @@ I'm a passionate **Frontend Developer** specializing in building modern, respons
 ### 🚀 Featured Projects
 
 <div align="center">
-
-<imag src="Screenshot 2026-01-01 235518.png" width="100%">
-<imag src="Screenshot 2026-01-01 235549.png" width="100%">
+<img src="Screenshot 2026-01-01 235518.png" width="100%">
+<img src="Screenshot 2026-01-01 235549.png" width="100%">
 
 </div>
 
