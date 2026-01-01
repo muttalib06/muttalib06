@@ -40,12 +40,6 @@ I'm a passionate **Frontend Developer** specializing in building modern, respons
 
 <p align="center">
   <a href="https://github.com/muttalib06">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muttalib06&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muttalib06">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=muttalib06&custom_title=Contribution%20Activity&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
   </a>
 </p>
