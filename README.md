@@ -9,11 +9,11 @@
 
 I'm a passionate **Frontend Developer** specializing in building modern, responsive, and user-friendly web applications. With a strong foundation in the **React.js**I always fous on creating seamless digital experiences that solve real-world problems.
 
-- 🔭 Currently exploring **Next.js** for creating high-quality applications
-- 💼 Building scalable applications with **React.js**
-- 🌱 Always learning and staying updated with the latest web technologies
-- 🎯 Focused on writing clean, maintainable, and efficient code
-- 💡 Open to collaborating with team to create innovative projects.
+-  Currently exploring **Next.js** for creating high-quality applications
+-  Building scalable applications with **React.js**
+-  Always learning and staying updated with the latest web technologies
+-  Focused on writing clean, maintainable, and efficient code
+-  Open to collaborating with team to create innovative projects.
 
 ---
 
@@ -96,4 +96,4 @@ const currentlyLearning = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<h4 align="center">⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> | Open to opportunities and collaboration!</h4>
+<h4 align="center"> From <a href="https://github.com/muttalib06">YOUR_USERNAME</a> | Open to opportunities and collaboration!</h4>
