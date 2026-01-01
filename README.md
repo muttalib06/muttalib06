@@ -1,15 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/cS0TxqfX/Frontend-Developer-React-Enthusiast-Building-Modern-Web-Experiences.png" alt="GitHub Banner" width="100%"/>
-</div>
-
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-
-<h3 align="center">Frontend Developer | React.js Specialist | Building Scalable Web Applications</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
-</p>
+Frontend Developer  React Enthusiast  Building Modern Web Experiences.png
 
 ---
 
