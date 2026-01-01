@@ -96,4 +96,4 @@ const currentlyLearning = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<h4 align="center"> From <a href="https://github.com/muttalib06">YOUR_USERNAME</a> | Open to opportunities and collaboration!</h4>
+<h4 align="center"> From <a href="https://github.com/muttalib06">muttalib06</a> | Open to opportunities and collaboration!</h4>
